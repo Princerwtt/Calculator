@@ -1,0 +1,41 @@
+h1 {
+  background-color: gainsboro;
+  text-align: center;
+}
+
+div {
+  background-color: rgba(0, 255, 255, 0.438);
+  text-align: center;
+}
+input {
+  width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+label {
+  font-size: 30px;
+  font-weight: bold;
+}
+button {
+  border-radius: 20px;
+  background-color: #4caf50;
+  border: 2px solid darkgreen;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
+span {
+  font-size: 20px;
+  margin-left: 2%;
+  text-align: center;
+}
+#dropdown {
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
